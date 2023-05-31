@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-bolden",
+  "name": "@bolden/eslint-config-bolden",
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
